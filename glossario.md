@@ -1,4 +1,4 @@
-#Direito
-#Direito Digital
-#Leis
-#Objetivos
+# Direito
+- Direito Digital
+# Leis
+- Objetivos
