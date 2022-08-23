@@ -24,11 +24,13 @@
 
 # Compliance
 
-- Compliance = "estar em conformidade com".
+-"to comply" e significa  "estar em conformidade com".
 
 - Mecanismos e procedimentos voltados à proteção da integridade e da ética das empresas.
 
 - Ajuda a empresa a se manter íntegra e resiliente.
+
+- Na prática, tem a função de proporcionar segurança e minimizar riscos de instituições e empresas ( o cumprimento dos atos, regimentos, normas e leis estabelicidos inteno e externamente.)
 
 
 
