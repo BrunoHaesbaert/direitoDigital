@@ -21,7 +21,7 @@
 
 # Compliance
 
--"to comply" e significa  "estar em conformidade com".
+- "to comply" e significa  "estar em conformidade com".
 
 - Mecanismos e procedimentos voltados à proteção da integridade e da ética das empresas.
 
