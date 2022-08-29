@@ -19,9 +19,6 @@
 -Processos Criminais
 -Contratos
 
-
-
-
 # Compliance
 
 -"to comply" e significa  "estar em conformidade com".
@@ -31,6 +28,7 @@
 - Ajuda a empresa a se manter íntegra e resiliente.
 
 - Na prática, tem a função de proporcionar segurança e minimizar riscos de instituições e empresas ( o cumprimento dos atos, regimentos, normas e leis estabelicidos inteno e externamente.)
+
 
 
 
