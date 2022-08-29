@@ -14,10 +14,10 @@
 
 # Areas de Atuação
 
--Contencioso
--Consultoria
--Processos Criminais
--Contratos
+- Contencioso
+- Consultoria
+- Processos Criminais
+- Contratos
 
 # Compliance
 
