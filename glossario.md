@@ -29,6 +29,9 @@
 
 - Na prática, tem a função de proporcionar segurança e minimizar riscos de instituições e empresas ( o cumprimento dos atos, regimentos, normas e leis estabelicidos inteno e externamente.)
 
+# LGPD
+
+
 
 
 
