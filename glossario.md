@@ -31,8 +31,7 @@
 
 # LGPD
 
-
-
+- A Lei Geral de Proteção de Dados Pessoais, Lei nº 13.709/2018, é a legislação brasileira que regula as atividades de tratamento de dados pessoais e que também altera os artigos 7º e 16 do Marco Civil da Internet.
 
 
 
