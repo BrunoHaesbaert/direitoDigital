@@ -36,3 +36,45 @@
 # Outsourcing
 
 - Descentralização produtiva dos sistemas de informação pelas empresas, vindas de estratégias corporativas com intuito de reduções de custos e  foco no desempenho e desenvolvimento de sua atividade econômica.
+
+# Documento Eletrônico
+
+- Definição:
+- Documento digital é um documento eletrônico que se caracteriza pela codificação em dígitos binários e acesso por sistema computacional.
+
+- Vantagens:
+
+* Redução de custos
+* Elevação do nivel de resolução
+* Contribui para o meio ambiente
+* Agiliza o manuseio de documentos
+* Acrescenta praticidade ao dia a dia
+* Garante validade jurídica
+* Redução de riscos
+* Economiza espaço físico
+* Padronização de processos
+
+# Assinatura Digital
+
+-Definição:
+-Assinatura Digital é equivalente a uma assinatura de próprio punho, é uma tecnologia que utiliza a criptografia e vincula o certificado digital ao documento eletrônico que está sendo assinado.
+
+-Vantagens: 
+* Eliminação do processo manual de coleta de assinaturas e a remessa fisica de documentos.
+* Reconhecimento de firmas e a gestão de documentos físicos.
+* Redução de custos
+* Simplificação de processos e agilizando a formalização de documentos.
+
+# Certificado Digital
+
+-Definição: 
+
+É a identidade eletrônica de uma pessoa ou empresa.
+
+-Como funciona: Como se fosse uma carteira de identificação virtual e permite assinar documentoss à distância com o mesmo valor jurídico da assinatura feita de próprio punho no papel.
+
+- Vantagens:
+* Realização de backup do certificado.
+* Não corre risco de queimar.
+* Agilidade na assinatura de documentos
+* Facilidade na instalação.
