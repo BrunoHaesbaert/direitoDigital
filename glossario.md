@@ -63,10 +63,10 @@
 
 # Assinatura Digital
 
--Definição:
--Assinatura Digital é equivalente a uma assinatura de próprio punho, é uma tecnologia que utiliza a criptografia e vincula o certificado digital ao documento eletrônico que está sendo assinado.
+- Definição:
+- Assinatura Digital é equivalente a uma assinatura de próprio punho, é uma tecnologia que utiliza a criptografia e vincula o certificado digital ao documento eletrônico que está sendo assinado.
 
--Vantagens: 
+- Vantagens: 
 * Eliminação do processo manual de coleta de assinaturas e a remessa fisica de documentos;
 * Reconhecimento de firmas e a gestão de documentos físicos;
 * Redução de custos;
@@ -74,11 +74,11 @@
 
 # Certificado Digital
 
--Definição: 
+- Definição: 
 
 É a identidade eletrônica de uma pessoa ou empresa.
 
--Como funciona: Como se fosse uma carteira de identificação virtual e permite assinar documentoss à distância com o mesmo valor jurídico da assinatura feita de próprio punho no papel.
+- Como funciona: Como se fosse uma carteira de identificação virtual e permite assinar documentoss à distância com o mesmo valor jurídico da assinatura feita de próprio punho no papel.
 
 - Vantagens:
 * Realização de backup do certificado;
