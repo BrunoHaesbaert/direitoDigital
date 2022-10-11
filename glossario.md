@@ -86,6 +86,7 @@
 * Agilidade na assinatura de documentos;
 * Facilidade na instalação;
 
+# Licenças
 
 1) O que é e para que serve uma licença de software?
 2) O que é Software Proprietário, Software de Domínio Público, Adware, Freeware, Shareware, Software de código aberto?
