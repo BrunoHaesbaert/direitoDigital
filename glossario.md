@@ -88,7 +88,7 @@
 
 # Licenças
 
-1) O que é e para que serve uma licença de software?
+# 1) O que é e para que serve uma licença de software?
 
  Uma licença de software é o documento que define os limites de uso que um usuário pode ter em relação a um produto de terceiros.
  
@@ -96,7 +96,7 @@
 
 É dentro desse contexto que a licença de software se encaixa, funcionando como um contrato de permissão de uso, ou aquisição, entre o fornecedor, tutor por direito autoral daquele conteúdo, e a empresa que busca utilizá-lo em processos internos
 
-2) O que é Software Proprietário, Software de Domínio Público, Adware, Freeware, Shareware, Software de código aberto?
+# 2) O que é Software Proprietário, Software de Domínio Público, Adware, Freeware, Shareware, Software de código aberto?
 
 O software proprietário, privativo ou não livre, é um software para computadores que é licenciado com direitos exclusivos para o produtor.
 
@@ -111,12 +111,12 @@ Shareware é um programa de computador disponibilizado gratuitamente, porém com
 Software de código aberto é o software de computador com o seu código fonte disponibilizado e licenciado com uma licença de código aberto no qual o direito autoral fornece o direito de estudar, modificar e distribuir o software de graça para qualquer um e para qualquer finalidade
 
 
-3) O que é GNU General Public License?
+# 3) O que é GNU General Public License?
 
 GNU General Public License, GNU GPL ou simplesmente GPL, é a designação da licença de software para software idealizada por Richard Matthew Stallman em 1989, no âmbito do projeto GNU da Free Software Foundation.
 
 
-4) O que é GNU FDL, GNU LGPL, GNU AGPL, Licença livre e Copyleft
+# 4) O que é GNU FDL, GNU LGPL, GNU AGPL, Licença livre e Copyleft
 
 - GNU Free Documentation License (português: Licença GNU de Documentação Livre) é uma licença para documentos e textos livres publicada pela Free Software Foundation. É inspirada na GNU General Public License, da mesma entidade, que é uma licença livre para software. A GNU FDL permite que textos, apresentações e conteúdo de páginas na internet sejam distribuídos e reaproveitados, mantendo, porém, alguns direitos autorais e sem permitir que essa informação seja usada de maneira indevida. A licença não permite, por exemplo, que o texto seja transformado em propriedade de outra pessoa, além do autor ou que sofra restrições a ser distribuído da mesma maneira que foi adquirido.
 
@@ -133,5 +133,5 @@ Outra diferença significativa é que os trabalhos derivados, que não estão so
 - Copyleft é uma forma de usar a legislação de proteção dos direitos autorais com o objetivo de retirar barreiras à utilização, difusão e modificação de uma obra criativa devido à aplicação clássica das normas de propriedade intelectual, exigindo que as mesmas liberdades sejam preservadas em versões modificadas
 
 
-5) Identifique as principais licenças quando um repositório é criado no GitHub
+# 5) Identifique as principais licenças quando um repositório é criado no GitHub
 
