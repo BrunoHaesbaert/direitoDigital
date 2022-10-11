@@ -135,3 +135,7 @@ Outra diferença significativa é que os trabalhos derivados, que não estão so
 
 # 5) Identifique as principais licenças quando um repositório é criado no GitHub
 
+* MIT
+* GPL
+* LGPL
+* BSD
