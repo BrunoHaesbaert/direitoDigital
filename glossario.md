@@ -89,7 +89,49 @@
 # Licenças
 
 1) O que é e para que serve uma licença de software?
+
+ Uma licença de software é o documento que define os limites de uso que um usuário pode ter em relação a um produto de terceiros.
+ 
+ Softwares são conteúdos intelectuais e, com isso, estão protegidos pelo direito autoral, ou copyright, termo legal que descreve a propriedade de alguém, ou de alguma empresa, sobre a distribuição e uso de obras de expressão criativa.
+
+É dentro desse contexto que a licença de software se encaixa, funcionando como um contrato de permissão de uso, ou aquisição, entre o fornecedor, tutor por direito autoral daquele conteúdo, e a empresa que busca utilizá-lo em processos internos
+
 2) O que é Software Proprietário, Software de Domínio Público, Adware, Freeware, Shareware, Software de código aberto?
+
+O software proprietário, privativo ou não livre, é um software para computadores que é licenciado com direitos exclusivos para o produtor.
+
+Software de domínio público é todo e qualquer programa computacional que não possui autoria. Qualquer pessoa pode usar, modificar ou vender.
+
+Adware é um software indesejado projetado para jogar anúncios em sua tela, na maioria das vezes dentro de um navegador da Web. Alguns profissionais de segurança o enxergam como o precursor moderno do PUP (programa potencialmente indesejado).
+
+Software gratuito ou freeware é qualquer programa de computador cuja utilização não implica o pagamento de licenças de uso ou royalties. É importante não confundir o free de freeware com o free de free software, pois no primeiro uso o significado é de gratuito, e no segundo de livre.
+
+Shareware é um programa de computador disponibilizado gratuitamente, porém com algum tipo de limitação.
+
+Software de código aberto é o software de computador com o seu código fonte disponibilizado e licenciado com uma licença de código aberto no qual o direito autoral fornece o direito de estudar, modificar e distribuir o software de graça para qualquer um e para qualquer finalidade
+
+
 3) O que é GNU General Public License?
+
+GNU General Public License, GNU GPL ou simplesmente GPL, é a designação da licença de software para software idealizada por Richard Matthew Stallman em 1989, no âmbito do projeto GNU da Free Software Foundation.
+
+
 4) O que é GNU FDL, GNU LGPL, GNU AGPL, Licença livre e Copyleft
+
+- GNU Free Documentation License (português: Licença GNU de Documentação Livre) é uma licença para documentos e textos livres publicada pela Free Software Foundation. É inspirada na GNU General Public License, da mesma entidade, que é uma licença livre para software. A GNU FDL permite que textos, apresentações e conteúdo de páginas na internet sejam distribuídos e reaproveitados, mantendo, porém, alguns direitos autorais e sem permitir que essa informação seja usada de maneira indevida. A licença não permite, por exemplo, que o texto seja transformado em propriedade de outra pessoa, além do autor ou que sofra restrições a ser distribuído da mesma maneira que foi adquirido.
+
+- A GNU Lesser General Public License, escrita em 1991 (e atualizada em 1999), é uma licença de software livre aprovada pela FSF e escrita como um meio-termo entre a GPL e licenças mais permissivas, tais como a licença BSD e a licença MIT.
+
+A principal diferença entre a GPL e a LGPL é que esta permite também a associação com programas que não estejam sob as licenças GPL ou LGPL, incluindo Software proprietário.
+
+Outra diferença significativa é que os trabalhos derivados, que não estão sob a LGPL, devem estar disponíveis em bibliotecas.
+
+- A GNU Affero General Public License (Licença Pública Geral Affero GNU), ou simplesmente GNU Affero GPL, é uma licença de software livre publicada recentemente pela Free Software Foundation. A GNU AGPL tem o propósito de ser uma licença minimamente modificada da GNU GPL e atender as necessidades de fornecer liberdade em softwares como serviços (SaaS, Software as a Service), ou seja, aqueles aos quais não se tem acesso direto ao binário/código-objeto.
+
+- Licença livre é toda licença que garante ao receptor de uma obra protegida por direito autoral, as liberdades de utilizar e gozar dos benefícios de seu uso, copiar e distribuir, estudar e modificar, e distribuir modificações daquela obra.
+
+- Copyleft é uma forma de usar a legislação de proteção dos direitos autorais com o objetivo de retirar barreiras à utilização, difusão e modificação de uma obra criativa devido à aplicação clássica das normas de propriedade intelectual, exigindo que as mesmas liberdades sejam preservadas em versões modificadas
+
+
 5) Identifique as principais licenças quando um repositório é criado no GitHub
+
