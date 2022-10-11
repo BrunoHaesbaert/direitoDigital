@@ -113,7 +113,7 @@ Software de código aberto é o software de computador com o seu código fonte d
 
 # 3) O que é GNU General Public License?
 
-GNU General Public License, GNU GPL ou simplesmente GPL, é a designação da licença de software para software idealizada por Richard Matthew Stallman em 1989, no âmbito do projeto GNU da Free Software Foundation.
+GNU General Public License (Licença Pública Geral GNU), GNU GPL ou simplesmente GPL, é a designação da licença de software para software idealizada por Richard Matthew Stallman em 1989, no âmbito do projeto GNU da Free Software Foundation (FSF). Richard Stallman originalmente criou a licença para o Projeto GNU de acordo com as definições de software livre da Free Software Foundation.
 
 
 # 4) O que é GNU FDL, GNU LGPL, GNU AGPL, Licença livre e Copyleft
