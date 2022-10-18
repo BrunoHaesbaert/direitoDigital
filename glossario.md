@@ -147,3 +147,8 @@ Outra diferença significativa é que os trabalhos derivados, que não estão so
 * GNU General Public License v2.0
 * GNU Lesser General Public License v2.1
 * Mozzila Public License 2.0
+
+
+# Dilema das redes sociais
+- Direitos --> Privacidade e igualdade
+
