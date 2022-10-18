@@ -152,3 +152,5 @@ Outra diferença significativa é que os trabalhos derivados, que não estão so
 # Dilema das redes sociais
 - Direitos --> Privacidade e igualdade
 
+# Creative Commons
+
