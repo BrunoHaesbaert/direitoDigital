@@ -156,7 +156,52 @@ Outra diferença significativa é que os trabalhos derivados, que não estão so
 
 #E-learning
 
+Significa aprendizagem eletrônica, ou seja, não presencial, é fundamentado em pilares tecnológicos.
+
+Exemplos: Udemy, Escolas de EAD...
+
+Benefícios para empresas: 
+
+* Aumento do índice de satisfação dos colaboradores;
+* Reduz o índice de turnover e absenteísmo.
+* Melhora a produtividade do trabalho.
+* Otimiza o clima organizacional.
+
 #E-market
 
+É um espaço virtual que engloba os mais variados forcenedores, conectando-os diretamente com seus clientes. Trata-se de uma loja virtual que apresenta vantagens tanto para quem vende como para quem consome.
+Geralmente esse tipo de negócio conta com variados tipos de produtos e serviços para conquistar um público-alvo maior.
+
+Vantagens:
+* Maior alcance
+* Aumento do faturamento
+* Mais diversidade e audiência.
+
+Desvantagens:
+* Dependência
+* Falta de reconhecimento
+
+Tipos de e-marketing
+
+* Independente
+* Voltado ao forncedor
+* Voltado para o comprador
+* Vertical
+* Horizontal
+
 #E-Govermment
+ 
+O termo Governo Eletrônico ou Administração Pública Eletrônica se refere ao uso da denominada Tecnologia da Informação e Comunicação (TIC) e Tecnologia da Informação, para informar e divulgar serviços ou produtos do Governo à população.
+
+Outro significado deste termo é a utilização da tecnologia para informar 24 horas por dia e sete dias por semana. Desta maneira o Governo abre um espaço para ouvir, debater organizar informações da opinião pública. Além da interação, o principal objetivo é a transparência e clareza das informações, principalmente no quesito da administração de recursos públicos.
+
+Outro ponto importante no Governo Eletrônico é a integração entre os poderes Legislativo, Executivo e demais esferas, desta maneira é possível habilitar um espaço para diálogo entre as partes, sem a necessidade da presença física dos interessados.
+
+Tipos de serviços:
+* Prestação de Contas
+* Requisições
+* Espaço para discussão
+* Ouvidoria
+* Cadastro e serviço online
+* Histórico
 
