@@ -154,3 +154,9 @@ Outra diferença significativa é que os trabalhos derivados, que não estão so
 
 # Creative Commons
 
+#E-learning
+
+#E-market
+
+#E-Govermment
+
