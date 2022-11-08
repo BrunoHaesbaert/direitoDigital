@@ -154,7 +154,7 @@ Outra diferença significativa é que os trabalhos derivados, que não estão so
 
 # Creative Commons
 
-#E-learning
+# E-learning
 
 Significa aprendizagem eletrônica, ou seja, não presencial, é fundamentado em pilares tecnológicos.
 
@@ -167,7 +167,7 @@ Benefícios para empresas:
 * Melhora a produtividade do trabalho.
 * Otimiza o clima organizacional.
 
-#E-market
+# E-market
 
 É um espaço virtual que engloba os mais variados forcenedores, conectando-os diretamente com seus clientes. Trata-se de uma loja virtual que apresenta vantagens tanto para quem vende como para quem consome.
 Geralmente esse tipo de negócio conta com variados tipos de produtos e serviços para conquistar um público-alvo maior.
@@ -189,7 +189,7 @@ Tipos de e-marketing
 * Vertical
 * Horizontal
 
-#E-Govermment
+# E-Govermment
  
 O termo Governo Eletrônico ou Administração Pública Eletrônica se refere ao uso da denominada Tecnologia da Informação e Comunicação (TIC) e Tecnologia da Informação, para informar e divulgar serviços ou produtos do Governo à população.
 
